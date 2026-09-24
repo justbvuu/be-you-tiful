@@ -12,7 +12,7 @@ below are the two crude wireframe. simple because i mainly focused on SolveMedia
 
 ![wireframe1](assets/wireframe1.png) ![wireframe2](assets/wireframe2.png)
 
-##mood board
+## mood board
 and here is the moodboard! i decided to keep it safe with aesthetics im familiar with and tried to focus more on the coding. (the amount of hair pulling... how am i not bald?)
 webcore and hopecore are the main aesthetics with an emphasis on dreamy and soft collection of images for the Captcha.
 motifs are mainly stars, glitter, flourishes, and ASCII art.
@@ -22,7 +22,7 @@ originally i was going to add in weirdcore as well, but i scrapped it because it
 
 ![moodboard](assets/moodboard.png)
 
-##future updates (if i ever get to it)
+## future updates (if i ever get to it)
 - sfxs! i had a nice sound file i wanted to use for the asset loading but i didnt have enough time (or eneergy)
 - smoother animations: for captcha selection
 - click particles:for maximum cuteness
