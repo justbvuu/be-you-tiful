@@ -25,6 +25,6 @@ and here is the moodboard! i decided to keep it safe with aesthetics im familiar
 ## future updates (if i ever get to it)
 - sfxs! i had a nice sound file i wanted to use for the asset loading but i didnt have enough time (or eneergy)
 - smoother animations: for captcha selection
-- click particles:for maximum cuteness
+- click particles: for maximum cuteness
 - custom buttons: i ended up using the provided buttons since it was more easier. fits the aesthetic but having custom buttons is fun
 - expansive img library: maybe? LOL
