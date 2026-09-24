@@ -16,6 +16,7 @@ below are the two crude wireframe. simple because i mainly focused on SolveMedia
 and here is the moodboard! i decided to keep it safe with aesthetics im familiar with and tried to focus more on the coding. (the amount of hair pulling... how am i not bald?)
 > webcore and hopecore are the main aesthetics with an emphasis on dreamy and soft collection of images for the Captcha.
 > motifs are mainly stars, glitter, flourishes, and ASCII art.
+
 > color palette consists of mainly pale pink, baby blue, greys, and a bit of black. 
 > i listed the fonts used in making the assets. (had a lot of fun sifting through fonts)
 > originally i was going to add in weirdcore as well, but i scrapped it because it felt too eclectic against the softer aesthetic and overall message i wanted to convey.
