@@ -7,6 +7,6 @@ main inspirations is from a j-pop music video, "Too Bad" by NiziU and Elizabeth 
 
 the grid made me wanna pull my hair out. i had to ask my big brother and look through excel tutorials weirdly.
 
-below is a very crude wireframe. simple because i mainly focused on SolveMedia and Captcha.
+below are the two crude wireframe. simple because i mainly focused on SolveMedia and Captcha.
 
-<img alt="wireframe1" src="https://github.com/user-attachments/assets/eeca540a-0df0-4738-9af6-ab97a50205fe" />
+![wireframe1](assets/wireframe1.png) ![wireframe2](assets/wireframe2.png)
