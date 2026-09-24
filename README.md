@@ -28,3 +28,4 @@ and here is the moodboard! i decided to keep it safe with aesthetics im familiar
 - click particles: for maximum cuteness
 - custom buttons: i ended up using the provided buttons since it was more easier. fits the aesthetic but having custom buttons is fun
 - expansive img library: maybe? LOL
+- reactive window adjustment. sigh...
