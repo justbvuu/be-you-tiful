@@ -9,3 +9,4 @@ the grid made me wanna pull my hair out. i had to ask my big brother and look th
 
 below is a very crude wireframe. simple because i mainly focused on SolveMedia and Captcha.
 
+<img alt="wireframe1" src="https://github.com/user-attachments/assets/eeca540a-0df0-4738-9af6-ab97a50205fe" />
