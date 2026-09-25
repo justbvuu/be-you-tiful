@@ -134,7 +134,7 @@ function draw() {
     image(screen1, 436, 140);
     //draws a 4 x 4 grid w/ padding using provided info
     for (let i = 0; i < 16; i++) {
-      //shoutout to brother & article i found. % = modulo operator, basically checks how many times the number fits in another and sidelines the remainder. in this case if i want 4 COLUMNS, itll use the remainders for X for all the COLUMNS of images. floor(i/4) gives the row number by dividing by the # of rows and rounding down. floor() is the rounding function
+      //shoutout to brother. % = modulo operator, basically checks how many times the number fits in another and sidelines the remainder. in this case if i want 4 COLUMNS, itll use the remainders for X for all the COLUMNS of images. floor(i/4) gives the row number by dividing by the # of rows and rounding down. floor() is the rounding function
       let x = gridX + (i % 4) * (size + padding);
       let y = gridY + floor(i / 4) * (size + padding);
 
